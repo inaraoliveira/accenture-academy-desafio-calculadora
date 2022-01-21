@@ -1,0 +1,11 @@
+.input{
+    width: 35.5vh;
+    height: 2.5vh;
+    margin: 5px;
+    padding-bottom: 5px;
+    background-color: rgba(175, 175, 175, 0.493);
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: end;
+}
